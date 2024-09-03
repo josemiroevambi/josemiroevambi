@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josemiroevambi
+- 👋 Hi, I’m @josemiroevambi you guys can also call me  by Josemiro
 - 👀 I’m interested in renewable and non-renewable energy solutions with python
 - 📫 How to reach me: josemiroevambi@gmail.com
 - ⚡ Fun fact: I'm ENERGY HACKER
